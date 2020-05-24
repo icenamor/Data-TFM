@@ -1,6 +1,9 @@
 # Data-TFM
 excel files for TFM
 
+There is a international company with several projects and more than 40 workers, the repository presents 4 projects in details.
+
+
 There are 4 different projects from 01-01-2019 to 10-05-2020
    * VATRO (This projects only presents corrective maintenance)
    * JUSTIT (A project, the  year  2019 was the go live, and this year presents correctives and new iterations)
@@ -11,5 +14,9 @@ There are 4 different projects from 01-01-2019 to 10-05-2020
 There are 6 developers 
 
  - This developers came from two different departaments. They develop part of the previus projects.
+ 
+There are the general time from 01-01-2019 to 10-05-2020
+
+
  
  
